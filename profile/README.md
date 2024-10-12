@@ -1,4 +1,4 @@
 # NurOS
-### The Linux distribution based on LFS.
+### The Linux distribution based on Linux.
 For more detais you can check here:
-https://NurOS.AnmiTali.kz
+https://nuros.anmitali.kz
