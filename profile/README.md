@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo-transparent.png" width="210" alt="logo">
+  <img src="logo-transparent.png" width="256" alt="logo">
 
   <h1>NurOS</h1>
   
