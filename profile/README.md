@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/NurOS-Linux/.github/raw/refs/heads/main/profile/logo-transparent.png" width="256" alt="logo">
+  <img src="https://github.com/NurOS-Linux/.github/raw/refs/heads/main/profile/logo-normal.png" width="256" alt="logo">
 
   <h1>NurOS</h1>
   <i>Shine brighter than the rest by thinking different.</i>
